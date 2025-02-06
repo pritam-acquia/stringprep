@@ -7,7 +7,7 @@
 ## Synopsis
 
 ```
-    import "github.com/xdg-go/stringprep"
+    import "github.com/pritam-acquia/stringprep"
 
     prepped := stringprep.SASLprep.Prepare("TrustNô1")
 
